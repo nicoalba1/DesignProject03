@@ -20,6 +20,7 @@ In the command window run: DesignProblem02('Controller','diagnostics',true)
 -Controller: Controller that is called by DesignProblem03 to control glider
 
 -workspace: Workbench
+
 *Also includes sections that plot behavior of all 1,000 flight simulations that are shown in the report.*
 
 -data.mat Data generated from Designproblem03
